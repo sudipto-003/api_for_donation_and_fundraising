@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'knox',
     'rest_framework_gis',
     'accounts',
+    'events',
 ]
 
 
